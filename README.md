@@ -175,4 +175,4 @@ Tested against n8n 1.x. Requires Node.js 20 or later.
 
 ## Licence
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
