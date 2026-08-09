@@ -16,6 +16,8 @@
 		"esModuleInterop": true,
 		"resolveJsonModule": true,
 		"incremental": true,
+		// Outside outDir, or the build cache ships in the package and is 80% of it
+		"tsBuildInfoFile": "./.tsbuildinfo",
 		"declaration": true,
 		"sourceMap": true,
 		"skipLibCheck": true,

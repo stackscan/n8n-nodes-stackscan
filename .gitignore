@@ -5,3 +5,4 @@ node_modules
 .agents/
 AGENTS.md
 CLAUDE.md
+.tsbuildinfo
