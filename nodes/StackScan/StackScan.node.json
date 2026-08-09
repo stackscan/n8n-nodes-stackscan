@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.stackScan",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.stackscan.com/docs/api"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/stackscan/n8n-nodes-stackscan#readme"
+			}
+		]
+	}
+}
