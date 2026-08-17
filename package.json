@@ -25,7 +25,7 @@
     "url": "git+https://github.com/stackscan/n8n-nodes-stackscan.git"
   },
   "scripts": {
-    "build": "n8n-node build",
+    "build": "rm -f .tsbuildinfo && n8n-node build",
     "build:watch": "tsc --watch",
     "dev": "n8n-node dev",
     "lint": "n8n-node lint",
