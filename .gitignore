@@ -1,8 +1,3 @@
 dist
 node_modules
-
-# Editor and assistant scaffolding, not part of the package
-.agents/
-AGENTS.md
-CLAUDE.md
 .tsbuildinfo
