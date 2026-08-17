@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-stackscan",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Look up the technologies and companies behind any website, using the StackScan API",
   "license": "MIT",
   "homepage": "https://www.stackscan.com/integrations/n8n",
